@@ -1,5 +1,6 @@
 # Canada Trade Market
 ## Description du projet 
+## L'équipe
 ### Mathis Odjo'o Ada, 
 ### Ghadi Falouh
 ### Zachary Cerqueira
