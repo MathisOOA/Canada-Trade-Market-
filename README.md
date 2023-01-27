@@ -7,6 +7,7 @@
 ###  - Zachary Cerqueira
 ## L’idée 
 ## L’utilité 
+#### Mettre de l'argent sur des actions afin d'en tirer des profits. Seulement, il est aussi possible de perdre de l'argent si l'utilisateur a une mauvaise gestion de celui-ci. 
 ## L’innovation 
 ## Des cas d’utilisation (scénario, acteurs)
 ## À qui ça s’adresse
