@@ -10,7 +10,7 @@
 ## L’innovation 
 ## Des cas d’utilisation (scénario, acteurs)
 ## À qui ça s’adresse
-#### 
+#### Les investisseurs débutants ou spécialistes canadiens qui souhaitent investir dans le commerce en ligne.
 ## Lien avec les autres matières 
 # Technologies 
 ## Technologie à utiliser : exemple Android git 
