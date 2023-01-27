@@ -12,6 +12,10 @@
 ## À qui ça s’adresse
 #### Les investisseurs débutants ou spécialistes canadiens qui souhaitent investir dans le commerce en ligne.
 ## Lien avec les autres matières 
+#### Math - Gestion de son porte monnaie / tendance des devises à baissées ou augmentées. 
+#### Français - L'ensemble du texte nécessaire pour la bonne gestion de notre site web. 
+#### Anglais - Si nous décidons d'offrir une version anglaise de notre application pour les canadiens anglophones. 
+#### Techno - Création d'une page web, Graphique des devises à chaque heure sur plusieurs journée, gestion de banque d'information. 
 # Technologies 
 ## Technologie à utiliser : exemple Android git 
 ### Git
