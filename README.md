@@ -9,6 +9,7 @@
 ## L’utilité 
 #### Mettre de l'argent sur des actions afin d'en tirer des profits. Seulement, il est aussi possible de perdre de l'argent si l'utilisateur a une mauvaise gestion de celui-ci. 
 ## L’innovation 
+#### C'est un simulateur de "trading" où l'argent que possède l'utilisateur est virtuelle et donc, il peut s'entrainer avant de se lancer dans un vrai marché financier.
 ## Des cas d’utilisation (scénario, acteurs)
 ## À qui ça s’adresse
 #### Les investisseurs débutants ou spécialistes canadiens qui souhaitent investir dans le commerce en ligne.
