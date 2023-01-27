@@ -1,8 +1,8 @@
 # Canada Trade Market
-# Description du projet 
-## Mathis Odjo'o Ada, 
-## Ghadi Falouh
-## Zachary Cerqueira
+## Description du projet 
+### Mathis Odjo'o Ada, 
+### Ghadi Falouh
+### Zachary Cerqueira
 ## L’idée 
 ## L’utilité 
 ## L’innovation 
