@@ -20,12 +20,15 @@
 #### Techno - Création d'une page web, Graphique des devises à chaque heure sur plusieurs journée, gestion de banque d'information. 
 # Technologies 
 ## Technologie à utiliser : exemple Android git 
-### Git
-### NetBeans 
-### Slick2d
-### JDBC :
-### Android Studio, 
-## Défis / difficultés : exemple apprendre Slick2d
+### Git : 
+#### Git est un service d'aide dans la gestion des projets en programmation. Il aide les utilisateurs à effectuer plusieurs tâches comme la division de travail et le partage de codes.
+### Python : 
+### Django : 
+### Html : 
+###  
+## Défis / difficultés : 
+### Apprendre python
+### Apprendre Html
 # Plan de travail en équipe 	
 ## Diagramme de Gantt : Excel, gantt Project 
 ## Analyse : 
