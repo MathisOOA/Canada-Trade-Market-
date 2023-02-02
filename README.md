@@ -22,13 +22,13 @@
 ## Technologie à utiliser : exemple Android git 
 ### Git : 
 #### Git est un service d'aide dans la gestion des projets en programmation. Il aide les utilisateurs à effectuer plusieurs tâches comme la division de travail et le partage de codes.
-### Python : 
-### Django : 
-### Html : 
-###  
+### Python : Un langage de programmation qui nous permettera de programmer la logique de notre site web grâce aux nombreuses librairies que ce langage offre â ces utlisateurs comme par exemple : 
+#### Matplotlib qui permet de créer des graphiques interactifs qu'on aura besoin pour representer le portefeuille personel de chaque utlisateurs.
+### Html : Un language concu pour la présentation de notre site web. Grâce à lui, on peut créer l'interface graphique de notre site.
+### Django : Un outil qui nous aidera de relier notre code de Python avec celui de Html.
 ## Défis / difficultés : 
-### Apprendre python
-### Apprendre Html
+### Apprendre python et Html
+### Apprendre comment lier nos code de language différents à l'aide de django.
 # Plan de travail en équipe 	
 ## Diagramme de Gantt : Excel, gantt Project 
 ## Analyse : 
