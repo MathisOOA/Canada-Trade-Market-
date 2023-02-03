@@ -25,6 +25,7 @@
 ### Python : 
 #### Un langage de programmation qui nous permettera de programmer la logique de notre site web grâce aux nombreuses librairies que ce langage offre â ces utlisateurs comme par exemple : 
 ##### Matplotlib qui permet de créer des graphiques interactifs qu'on aura besoin pour representer le portefeuille personel de chaque utlisateurs.
+##### On utilise le logiciel Pycharm pour complier notre code
 ### Html :
 #### Un language concu pour la présentation de notre site web. Grâce à lui, on peut créer l'interface graphique de notre site.
 ### Django :
